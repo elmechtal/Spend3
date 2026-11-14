@@ -1,0 +1,3 @@
+{"name":"Spend","short_name":"Spend","start_url":"./","scope":"./","display":"standalone",
+ "background_color":"#FFFFFF","theme_color":"#FFFFFF",
+ "icons":[{"src":"app-icon-blue-180.png","sizes":"180x180","type":"image/png"},{"src":"app-icon-blue-512.png","sizes":"512x512","type":"image/png","purpose":"any"}]}
