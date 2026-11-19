@@ -1,4 +1,4 @@
-const CACHE='spend-v14';
+const CACHE='spend-v15';
 const FILES=['./','index.html','manifest.webmanifest','app-icon-blue-180.png','app-icon-blue-512.png'];
 // Install: download fresh copies, skipping the browser's own cache.
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE)
